@@ -1,16 +1,124 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Anusree R 👋</h1>
 
-<!--
-**Anusree-R/Anusree-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>B.Tech CSE (Hons.) · Data Science & Data Engineering · Final Year</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+I'm a final-year **B.Tech Computer Science** student specialising in **Data Science & Data Engineering**, passionate about transforming raw data into meaningful stories and intelligent systems.
+
+- 🎯 Aspiring **Data Scientist** with hands-on experience building end-to-end ML pipelines
+- 🌱 Currently deepening expertise in **MLOps**, **Deep Learning**, and **Big Data Engineering**
+- 💼 Actively **open to opportunities** — internships, full-time roles, and research collaborations
+- 🎨 Outside of data, I'm an artist who loves **painting** — I believe creativity fuels better problem-solving
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Machine Learning & AI**
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Data & Analytics**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Data Engineering & MLOps**
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**Tools & Version Control**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🎵 [Spotify Genre Predictor](https://github.com/Anusree-R/spotify-genre-predictor) | Predicts music genres from audio features using ML classification models | Python, Scikit-Learn, Spotify API |
+| ✈️ [AI Travel Itinerary Planner](https://github.com/Anusree-R/AI-Travel-Itinerary-Planner) | Generates personalised travel plans using LLMs and real-time data | Python, LangChain, FastAPI |
+| 👥 [HR Attrition Analysis with Bias Detection](https://github.com/Anusree-R/HR-Attrition-Analysis-with-Bias-Detection) | Analyses employee attrition patterns while detecting demographic bias in predictions | Python, Pandas, Fairlearn |
+| 🌿 [Plant Disease Detection](https://github.com/Anusree-R/Plant-Disease-Detection) | CNN-based image classification model to detect plant diseases from leaf images | TensorFlow, Keras, OpenCV |
+| 📉 [Customer Churn Predictor](https://github.com/Anusree-R/Customer_Churn_Predictor) | End-to-end churn prediction pipeline with business impact analysis | Python, XGBoost, Scikit-Learn |
+| 📈 [Real-Time Stock Sentiment vs. Price Movement](https://github.com/Anusree-R/Real-Time-Stock-Sentiment-vs.-Price-Movement) | Correlates live news sentiment with stock price fluctuations in real time | Python, NLP, Yahoo Finance API |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anusree-R&show_icons=true&theme=elegant&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anusree-R&layout=compact&theme=elegant&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anusree-R&theme=elegant&hide_border=true" width="55%" />
+</p>
+
+---
+
+## 🎨 A Little More About Me
+
+```python
+anusree = {
+    "currently"  : "Final year B.Tech CSE — Data Science & Engineering",
+    "goal"       : "Build impactful, ethical, and explainable AI systems",
+    "learning"   : ["MLOps", "LLMs", "Real-time Data Pipelines"],
+    "hobbies"    : ["Painting 🎨", "Exploring art & design", "Reading about AI ethics"],
+    "fun_fact"   : "I believe every dataset has a story — just like every blank canvas does.",
+    "open_to"    : ["Internships", "Full-time roles", "Research collaborations"]
+}
+```
+
+---
+
+<p align="center">
+  <em>✨ "Data is the new canvas, and models are the brushstrokes." ✨</em>
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
