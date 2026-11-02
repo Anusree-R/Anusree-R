@@ -14,12 +14,14 @@
 
 ## 🌟 About Me
 
-I'm a final-year **B.Tech Computer Science** student specialising in **Data Science & Data Engineering**, passionate about transforming raw data into meaningful stories and intelligent systems.
+I'm a **B.Tech Computer Science** graduate (2026) with Honours in **Data Science & Data Engineering**, interested in turning raw data into useful insights and building practical AI systems.
 
-- 🎯 Aspiring **Data Scientist** with hands-on experience building end-to-end ML pipelines
-- 🌱 Currently deepening expertise in **MLOps**, **Deep Learning**, and **Big Data Engineering**
-- 💼 Actively **open to opportunities** — internships, full-time roles, and research collaborations
-- 🎨 Outside of data, I'm an artist who loves **painting** — I believe creativity fuels better problem-solving
+- 🎯 Targeting **AI Engineer**, **Data Scientist**, and **Data Analyst** roles
+- 🛠️ Hands-on with end-to-end ML pipelines, SQL and dashboards, and now building **GenAI / LLM-based projects**
+- 💼 Completed a Data Science internship at **TransOrg Analytics**
+- 🌱 Currently deepening my skills in **LLM applications**, **LangGraph**, and **data engineering**
+- 📬 **Open to full-time roles**, both **remote and on-site**
+- 🎨 Outside of data, I paint. Creativity helps me solve problems better.
 
 ---
 
@@ -88,7 +90,6 @@ I'm a final-year **B.Tech Computer Science** student specialising in **Data Scie
 
 ```python
 anusree = {
-    "currently"  : "Final year B.Tech CSE — Data Science & Engineering",
     "goal"       : "Build impactful, ethical, and explainable AI systems",
     "learning"   : ["MLOps", "LLMs", "Real-time Data Pipelines"],
     "hobbies"    : ["Painting 🎨", "Exploring art & design", "Reading about AI ethics"],
@@ -104,5 +105,5 @@ anusree = {
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anusree-r/"><img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
